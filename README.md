@@ -1,2 +1,3 @@
 # Arduino_Serial
-Arduino Serial Output
+This is for Windows(exe). 
+(Arduino Serial Output) 
