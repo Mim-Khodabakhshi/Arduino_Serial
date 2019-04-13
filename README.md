@@ -9,4 +9,4 @@ Arduino Serial port Output(exe file)
 
 4.enter baud(for example: 9600,etc...)
 
-5."THANK YOU"
+"Enjoy :) "
